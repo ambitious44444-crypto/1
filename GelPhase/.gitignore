@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local results (not needed on Streamlit Cloud)
+results/
+
+# Local launcher
+run_windows.bat
+run_analysis.py
+
+# Environment
+.env
+venv/
+.venv/
+
+# matplotlib config
+.mplconfig/
+
+# IDE
+.vscode/
+.idea/
